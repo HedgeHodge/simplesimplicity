@@ -6,9 +6,16 @@ img {
   width: 15%;
 }
 
+html {
+    height: 100%;
+}
+
 body {
   background-image: url("Aloe-background.png");
+  background-attachment: fixed;
   background-repeat: no-repeat;
+  height: 100%;
+  margin: 0;
   font-size: 25px;
 }
 

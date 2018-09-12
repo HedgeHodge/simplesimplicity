@@ -8,6 +8,7 @@ img {
 
 body {
   background-image: url("Aloe-background.png");
+  background-repeat: no-repeat;
   font-size: 25px;
 }
 
